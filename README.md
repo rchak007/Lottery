@@ -1,0 +1,2 @@
+# Lottery
+Lottery smart contract
